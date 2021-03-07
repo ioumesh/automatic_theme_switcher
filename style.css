@@ -123,5 +123,14 @@ header button{
 section.empty{
 background:var(--secondary);
 padding:2rem;
-height:700px;
+height:400px;
+}
+
+footer h2 {
+    text-align:center;
+  
+}
+footer a{
+    text-decoration:none;
+    color:var(--accent);
 }
