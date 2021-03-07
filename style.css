@@ -124,6 +124,7 @@ section.empty{
 background:var(--secondary);
 padding:2rem;
 height:400px;
+width:100%;
 }
 
 footer h2 {
