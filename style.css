@@ -26,6 +26,20 @@ body{
     --fontcolor:#fff;
     --pure:#fff;
     }
+    .theme-ocean{
+        --primary:#252c35;
+        --secondary:#20272e;
+        --accent:#54c75b;
+        --fontcolor:#fff;
+        --pure:#fff;
+        }
+        .theme-sepia{
+            --primary:#fbf1c7;
+            --secondary:#eadfb5;
+            --accent:#704214;
+            --fontcolor:#704214;
+            --pure:#fff;
+            }
 .container{
     width:1192px;
     max-width:90%;
