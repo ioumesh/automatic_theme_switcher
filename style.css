@@ -120,7 +120,7 @@ header button{
     text-transform:uppercase;
 }
 
-section.empty{
+section div.empty{
 background:var(--secondary);
 padding:2rem;
 height:400px;

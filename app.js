@@ -19,7 +19,6 @@ setTheme('theme-light')
 setTheme(default_theme);
 themeswitcher.addEventListener('change', (event) => {
     setTheme(event.target.value);
-    // console.log(event.target.value);
 });
 // for theme
 function setTheme(theme) {
